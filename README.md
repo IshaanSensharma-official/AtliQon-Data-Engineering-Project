@@ -38,7 +38,9 @@ dim_date: Custom-generated date dimension for time-series analysis.
 Implemented logic to process daily order files from a landing folder and archive them to a processed folder using dbutils.
 Schema Enforcement: Leveraged Delta Lake to ensure incoming data types match the target table, preventing data corruption.
 Advanced SQL Logic: Created a denormalized "Gold View" to simplify dashboarding, calculating revenue using:
+
 <img width="447" height="57" alt="image" src="https://github.com/user-attachments/assets/10d5d128-6545-4aea-8c64-8e139a73d53c" />
+
 Automated Workflows: Set up a 4-stage job pipeline to ensure data flows sequentially from dimensions to facts.
 
 
