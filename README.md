@@ -5,7 +5,7 @@ In this project, I acted as a Data Engineer for AtliQon, a leading sports equipm
 I built an end-to-end ETL pipeline using the Medallion Architecture in Databricks to ingest, clean, and unify data from both companies into a single "Source of Truth" for executive decision-making.
 
 
-
+ 
 🏗️ Technical Architecture
 The pipeline follows a modern data lakehouse pattern, moving data through three distinct stages of refinement.
 Note: While the original project used AWS S3, this implementation utilizes Databricks Volumes (Unity Catalog) as the landing zone for raw data to optimize for a native Databricks environment.
