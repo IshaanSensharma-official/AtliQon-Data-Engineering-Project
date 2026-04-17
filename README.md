@@ -1,4 +1,4 @@
-<img width="1141" height="702" alt="Signature_Copy" src="https://github.com/user-attachments/assets/1097c308-c75a-45b6-9070-00e503a8a757" />AtliQon & SportsBar: Unified Data Engineering Pipeline
+AtliQon & SportsBar: Unified Data Engineering Pipeline
 
 📌 Project Overview
 In this project, I acted as a Data Engineer for AtliQon, a leading sports equipment manufacturer. Following the acquisition of a startup called SportsBar, the company faced a major "Data Chaos" problem: disparate formats, inconsistent metrics, and missing historical records.
@@ -65,20 +65,6 @@ Monthly Revenue Trends: Identifying seasonal spikes and acquisition growth.
 Top Products/Customers: Ranking performance by both quantity and revenue.
 
 Revenue Share by Channel: Analyzing the impact of direct sales vs. retailers.
-
-
-📂 Project Structure
-Plaintext
-├── 1_setup/
-│   └── utilities            # Config variables & schemas
-├── 2_dimension_processing/
-│   ├── customer_processing  # ETL for Customers
-│   ├── product_processing   # ETL for Products
-│   └── price_processing     # ETL for Pricing
-├── 3_fact_processing/
-│   └── incremental_load     # Staging & Archiving logic
-└── 4_gold_layer/
-    └── gold_view_creation   # Final SQL reporting view
 
 
 👨‍💻 Developed by
