@@ -1,3 +1,6 @@
+<img width="1854" height="697" alt="image" src="https://github.com/user-attachments/assets/bc3458cc-c8b8-48ad-8183-cd7ded743724" />
+
+
 AtliQon & SportsBar: Unified Data Engineering Pipeline
 
 📌 Project Overview
@@ -63,6 +66,9 @@ Advanced SQL Logic: Created a denormalized "Gold View" to simplify dashboarding,
 Automated Workflows: Set up a 4-stage job pipeline to ensure data flows sequentially from dimensions to facts.
 
 
+<img width="1849" height="796" alt="image" src="https://github.com/user-attachments/assets/71cdb482-77f7-45d8-9850-3ed772480736" />
+
+
 
 📈 Dashboard Insights
 
@@ -74,6 +80,8 @@ Top Products/Customers: Ranking performance by both quantity and revenue.
 
 Revenue Share by Channel: Analyzing the impact of direct sales vs. retailers.
 
+
+<img width="1851" height="759" alt="image" src="https://github.com/user-attachments/assets/e049dffa-49d3-4964-a823-a022ec133ed3" />
 
 
 👨‍💻 Developed by
